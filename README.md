@@ -2,7 +2,7 @@
 
 A responsive UI clone of **Discord** built using **Vite**, **Tailwind CSS**, and modern web development best practices.
 
-👉 **Live Demo:** [https://razor-pay-clone-seven.vercel.app/](https://razor-pay-clone-seven.vercel.app/)
+👉 **Live Demo:** https://discord-clone-two-puce.vercel.app
 
 ---
 
